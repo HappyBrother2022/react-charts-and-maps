@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-charts-and-maps/static/css/main.f1788d7a.chunk.css",
+    "main.js": "/react-charts-and-maps/static/js/main.98381fbb.chunk.js",
+    "main.js.map": "/react-charts-and-maps/static/js/main.98381fbb.chunk.js.map",
+    "runtime-main.js": "/react-charts-and-maps/static/js/runtime-main.2a5771ab.js",
+    "runtime-main.js.map": "/react-charts-and-maps/static/js/runtime-main.2a5771ab.js.map",
+    "static/js/2.a830f852.chunk.js": "/react-charts-and-maps/static/js/2.a830f852.chunk.js",
+    "static/js/2.a830f852.chunk.js.map": "/react-charts-and-maps/static/js/2.a830f852.chunk.js.map",
+    "index.html": "/react-charts-and-maps/index.html",
+    "precache-manifest.e895707dcd098beb8eb5f57c2e7716d8.js": "/react-charts-and-maps/precache-manifest.e895707dcd098beb8eb5f57c2e7716d8.js",
+    "service-worker.js": "/react-charts-and-maps/service-worker.js",
+    "static/css/main.f1788d7a.chunk.css.map": "/react-charts-and-maps/static/css/main.f1788d7a.chunk.css.map",
+    "static/js/2.a830f852.chunk.js.LICENSE.txt": "/react-charts-and-maps/static/js/2.a830f852.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-charts-and-maps/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a5771ab.js",
+    "static/js/2.a830f852.chunk.js",
+    "static/css/main.f1788d7a.chunk.css",
+    "static/js/main.98381fbb.chunk.js"
+  ]
+}
